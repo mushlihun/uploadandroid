@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FileUpload</string>
+    <string name="title_with_progress">Upload File with Progress</string>
+    <string name="title_without_progress">Upload File without Progress</string>
+    <string name="error_message">Error occurred!</string>
+    <string name="message_need_permission">Need Permissions</string>
+    <string name="message_grant_permission">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="label_setting">GOTO SETTINGS</string>
+    <string name="cancel">Cancel</string>
+    <string name="take_photo">Capture Photo</string>
+    <string name="choose_gallery">Choose from Library</string>
+    <string name="file_upload_successful">File has been uploaded successfully</string>
+    <string name="first_seleted_media">First select file for upload</string>
+</resources>
